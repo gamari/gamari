@@ -5,3 +5,4 @@
 - TypeScript
 - Python
 - Rust
+- React
