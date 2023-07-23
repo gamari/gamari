@@ -1,8 +1,7 @@
 # Language
 
-- Java
-- JavaScript
-- TypeScript
+- Java / Kotlin
+- JavaScript / TypeScript
 - Python
 - Rust
-- React
+- Golang
